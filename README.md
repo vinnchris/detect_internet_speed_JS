@@ -1,0 +1,1 @@
+# detect_internet_speed_JS
